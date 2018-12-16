@@ -1,0 +1,11 @@
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.deps.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.runtimeconfig.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.dll
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.pdb
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.csprojAssemblyReference.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.dll
+C:\Users\Plamen\source\repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.1\4. Pascal Triangle.deps.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.1\4. Pascal Triangle.runtimeconfig.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.1\4. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.1\4. Pascal Triangle.dll
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.1\4. Pascal Triangle.pdb
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.dll
+C:\Users\Plamen\source\repos\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.1\4. Pascal Triangle.pdb
